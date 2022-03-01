@@ -1,11 +1,11 @@
 .cover__heading {
   max-width: 560px;
-  position: relative; 
+  position: relative;
   font-size: 72px;
   line-height: 76px;
   text-align: center;
   color: #fff;
-	z-index: 50;  
+	z-index: 50;
   padding: 0;
 	margin: 0 auto 32px;
   font-weight: 900;
