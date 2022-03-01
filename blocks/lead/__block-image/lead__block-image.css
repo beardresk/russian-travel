@@ -1,0 +1,22 @@
+.lead__block-image {
+  margin: 0 auto;
+  max-width: 984px;
+}
+
+@media screen and (max-width: 1279px) {
+  .lead__block-image {
+    max-width: 928px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .lead__block-image {
+    max-width: 768px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .lead__block-image {
+    min-width: 320px;
+  }
+}
