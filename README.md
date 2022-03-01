@@ -11,4 +11,7 @@
 
 **В проекте использовались**
 * HTML (Вёрстка по БЭМ).
-* CSS (Flexbox | GridLayot)
+* CSS (Flexbox | GridLayot).
+
+
+Ccылка на сайт: https://beardresk.github.io/russian-travel/
